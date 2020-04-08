@@ -8,3 +8,5 @@ Coursea吴恩达的机器学习课程编程作业，Octave/MatLab，2020年3月2
 - 第三周 [Logistic Regression](./machine-learning-ex2)
 - 第四周 [Neural Networks: Representation](./machine-learning-ex3)
 - 第五周 [Neural Networks Learning](./machine-learning-ex4)
+- 第六周 [Regularized Linear Regression and Bias/Variance](./machine-learning-ex5)
+
