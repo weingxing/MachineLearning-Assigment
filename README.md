@@ -17,4 +17,8 @@ Coursea吴恩达的机器学习课程编程作业，Octave/MatLab，2020年3月2
 
 
 
-编程作业完成，还有week10和week11的课程没有学习，这两周没有编程作业
+课程完成，感谢自己的坚持，接下来开始学习cs228和cs231n
+
+
+
+![](https://www.mapletown.xyz/images/cert.png)
